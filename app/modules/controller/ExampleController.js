@@ -12,7 +12,7 @@ const { User } = db.sequelize.models;
  * 
  * @param {any} data User data 
  * 
- * @author Code Squadi
+ * @author Andre Mury @Yoobot
  * @version 0.1.0-alpha
  * 
  * ----

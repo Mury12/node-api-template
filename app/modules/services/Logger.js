@@ -5,7 +5,7 @@ import moment from 'moment';
  * Saves logs to a file
  * 
  * @version 0.1.0-alpha
- * @author Code Squadi
+ * @author Andre Mury @Yoobot
  * 
  * ----
  * Example usage:
