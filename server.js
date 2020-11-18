@@ -7,7 +7,6 @@ import meh from './app/modules/util/meh.json';
 // Routers
 import { log } from './app/modules/routes/logger/index.js';
 import { user, auth } from './app/modules/routes/user/index.js';
-import { company } from './app/modules/routes/company/index.js';
 
 // Services
 import { Logger } from './app/modules/services/Logger.js';
