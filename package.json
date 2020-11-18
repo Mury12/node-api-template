@@ -1,0 +1,28 @@
+{
+    "name": "portal-do-colaborador-api",
+    "version": "0.1.0",
+    "description": "Webservice para Portal do Colaborador",
+    "main": "./server.js",
+    "scripts": {
+        "start": "nodemon -r esm  --ignore '*.json' --inspect server.js"
+    },
+    "dependencies": {
+        "axios": "^0.20.0",
+        "bcrypt": "^5.0.0",
+        "blockchain-payments-node": "^1.3.0",
+        "dotenv": "^8.2.0",
+        "esm": "^3.2.25",
+        "fastify": "^3.3.0",
+        "fastify-blipp": "^3.0.0",
+        "fastify-cookie": "^4.0.2",
+        "fastify-cors": "^4.1.0",
+        "fastify-jwt": "^2.1.3",
+        "fastify-plugin": "^2.3.3",
+        "http": "0.0.1-security",
+        "moment": "^2.27.0",
+        "mysql2": "^2.1.0",
+        "qrcode": "^1.4.4",
+        "require": "^2.4.20",
+        "sequelize": "^6.3.4"
+    }
+}
