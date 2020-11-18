@@ -1,4 +1,4 @@
-# Portal do Colaborador
+# Node MVC Fastify Template
 
 ### Def:
 
@@ -6,4 +6,3 @@
  - `PUT` -> Update (DB)
  - `GET` -> Get (DB)
  - `DELETE` -> Remove (DB)
- - `PATCH` -> Update no estado da sessão
